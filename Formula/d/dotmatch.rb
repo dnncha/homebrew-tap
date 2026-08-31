@@ -1,8 +1,8 @@
 class Dotmatch < Formula
   desc "Deterministic known-target short-DNA assignment engine"
   homepage "https://dnncha.github.io/dotmatch/"
-  url "https://github.com/dnncha/dotmatch/releases/download/v0.2.2/dotmatch-0.2.2.tar.gz"
-  sha256 "c441aaafb6b29db51560d3fc68c52a8ad01ed0f08158a89544c1d9366f12fce8"
+  url "https://github.com/dnncha/dotmatch/releases/download/v0.4.0/dotmatch-0.4.0.tar.gz"
+  sha256 "367cb89e0b54e35286d51107e487f8656aa0f1277eeb9716978b4087ee9864bb"
   license "Apache-2.0"
 
   uses_from_macos "zlib"
